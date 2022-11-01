@@ -1,11 +1,19 @@
-# Primeiro Projeto em React - Entrega da semana 1 Kenzie
+![SITE](/src/assets/nukenzie.jpg) 
 
-## Trata-se de um aplicativo de controle financeiro, onde você lança suas movimentações financeiras do mês, mostrando o seu saldo em dinheiro e podendo filtrar entre todos os lançamentos, entradas e despesas.
+# Sobre o projeto
 
-# Tecnologias utilizadas:
-# React:
-## useState
-## Styled Component
-## React Icons
+Aplicativo de controle financeiro em React com as funcionalidades:
 
-### link da aplicação: https://react-entrega-s1-nu-kenzie-jeanmbiz.vercel.app/
+- Adiciona e remove transação
+- Cálculo do saldo podendo ser positivo ou negativo
+- Filtro das movimentações
+- LandingPage
+
+# Tecnologias utilizadas
+## Front end
+- React
+- useState
+- StyledComponents
+- React Icons
+
+### Link GithubPages: https://react-entrega-s1-nu-kenzie-jeanmbiz.vercel.app/
