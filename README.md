@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Aplicativo de controle financeiro em React com as funcionalidades:
+Projeto front-end Web de controle financeiro em React com as funcionalidades:
 
 - Adiciona e remove transação
 - Cálculo do saldo podendo ser positivo ou negativo
