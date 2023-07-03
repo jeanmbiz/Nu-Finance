@@ -14,6 +14,19 @@ export const HeaderStyled = styled.header`
     min-height: 100%;
   }
 
+  h2 {
+    display: flex;
+    flex-direction: row;
+    color: var(--color-grey-4);
+    gap: 5px;
+    font-size: 2rem;
+    font-weight: 900;
+
+    span:nth-child(1) {
+      color: var(--color-primary);
+    }
+  }
+
   img {
     width: 125px;
     height: 20px;

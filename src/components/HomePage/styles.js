@@ -20,6 +20,28 @@ export const Home = styled.div`
     height: 20px;
   }
 
+  span {
+    display: flex;
+    flex-direction: row;
+  }
+
+  h2 {
+    display: flex;
+    flex-direction: row;
+    color: var(--color-white);
+    gap: 5px;
+    font-size: 3rem;
+    font-weight: 800;
+
+    span:nth-child(1) {
+      color: var(--color-primary);
+    }
+  }
+
+  h4 {
+    color: white;
+  }
+
   h1 {
     color: var(--color-white);
     font-size: 2.3rem;
@@ -30,6 +52,7 @@ export const Home = styled.div`
   h3 {
     color: var(--color-white);
     line-height: 1.6rem;
+    font-weight: 800;
   }
 
   .botaoIniciar {

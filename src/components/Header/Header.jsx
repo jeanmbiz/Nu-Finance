@@ -10,7 +10,7 @@ function Header({ setIsLogged }) {
   return (
     <HeaderStyled>
       <div className="container">
-        <img src={Nukenzie} alt="" />
+        <h2> <span>Nu</span> <span>Finance</span></h2>
 
         <GrayButton action={logout} setIsLogged={setIsLogged} name="Inicio" />
       </div>

@@ -12,7 +12,7 @@ function HomePage({ setIsLogged }) {
   return (
     <Home>
       <div>
-        <img className="nukenzie" src={logo} alt="" />
+        <h2> <span>Nu</span> <span>Finance</span></h2>
 
         <h1>Centralize o controle das suas financas</h1>
 
