@@ -2,7 +2,7 @@
 ![SITE](/src/assets/nufinance-capa.jpg)
 ![SITE](/src/assets/nufinance-site.jpg) 
 
-# Sobre o projeto
+# Sobre o projeto ----
 
 Projeto front-end Web de controle financeiro em React com as funcionalidades:
 
